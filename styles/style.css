@@ -1,0 +1,41 @@
+/* style share  */
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .text-primary{
+    color: #FD6E0A;
+  }
+  
+
+
+/* nav related styles */
+
+nav {
+    display: flex;
+}
+
+.nav-title {
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav > ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+   
+}
